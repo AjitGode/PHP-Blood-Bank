@@ -44,7 +44,7 @@
 		<?php include"footer.php"; ?>
 
     </div>
-    <!-- /.container -->
+    <!-- /.container ffg-->
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
